@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://localhost:4000/Cosi/</loc>
+    
+    <lastmod>2020-05-16T19:28:23.899Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/Firenze-Arpeggio/</loc>
+    
+    <lastmod>2020-05-16T19:28:23.899Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/Fortissio-Lungo/</loc>
+    
+    <lastmod>2020-05-16T19:28:23.899Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/Ristretto-Italiano/</loc>
+    
+    <lastmod>2020-05-16T19:28:23.899Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/Venezia/</loc>
+    
+    <lastmod>2020-05-16T19:28:23.899Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/Voluto/</loc>
+    
+    <lastmod>2020-05-16T19:28:23.899Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/about/index.html</loc>
+    
+    <lastmod>2020-05-16T19:28:23.899Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/contact/index.html</loc>
+    
+    <lastmod>2020-05-16T19:28:23.899Z</lastmod>
+    
+  </url>
+  
+</urlset>
